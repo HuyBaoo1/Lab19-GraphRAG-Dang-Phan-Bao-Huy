@@ -1,0 +1,26 @@
+Title: Mistral AI
+Requested: Mistral AI
+Page ID: 75544367
+URL: https://en.wikipedia.org/wiki/Mistral_AI
+Source: Wikipedia (en), plain-text extract via MediaWiki API
+---
+
+Mistral AI SAS (French: [mistʁal]) is a French artificial intelligence (AI) company, headquartered in Paris. Founded in 2023, it has open-weight large language models (LLMs), with both open-source and proprietary AI models. As of 2025 the company has a valuation of more than US$14 billion.
+
+
+Namesake
+The company is named after the mistral, a powerful, cold wind in southern France, a term which originates from the Occitan language.
+
+
+History
+Mistral AI was established in April 2023 by three French AI researchers, Arthur Mensch, Guillaume Lample and Timothée Lacroix.
+Mensch, an expert in advanced AI systems, is a former employee of Google DeepMind; Lample and Lacroix, meanwhile, are large-scale AI models specialists who had worked for Meta Platforms.
+The trio originally met during their studies at École Polytechnique.
+
+
+Company operation
+
+
+Funding
+In June 2023, the start-up carried out a first fundraising of €105 million ($117 million) with investors including the American fund Lightspeed Venture Partners, Eric Schmidt, Xavier Niel and JCDecaux. The valuation was then estimated by the Financial Times at €240 million ($267 million).
+On 10 December 2023, Mistral AI announced...

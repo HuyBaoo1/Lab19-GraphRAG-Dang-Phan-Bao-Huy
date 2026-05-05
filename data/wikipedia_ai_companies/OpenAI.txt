@@ -1,0 +1,10 @@
+Title: OpenAI
+Requested: OpenAI
+Page ID: 48795986
+URL: https://en.wikipedia.org/wiki/OpenAI
+Source: Wikipedia (en), plain-text extract via MediaWiki API
+---
+
+OpenAI Global, LLC is an American artificial intelligence (AI) research organization consisting of a for-profit public benefit corporation (PBC) and a nonprofit foundation, headquartered in San Francisco. OpenAI developed the generative pre-trained transformer (GPT) family of large language models, the DALL-E series of text-to-image models, and the Sora series of text-to-video models, which have influenced industry research and commercial applications. Its release of ChatGPT in November 2022 has been credited with catalyzing widespread interest in generative AI.
+OpenAI was founded in 2015 in Delaware as a nonprofit. A for-profit subsidiary of the nonprofit was created in 2019, and a 2025 restructuring converted the subsidiary into a PBC that is 26% owned by the nonprofit. Microsoft previously invested over $13 billion into OpenAI, and provides Azure cloud computing resources. In October 2025, OpenAI conducted a $6.6 billion share sale that valued the company at $500 billion.
+In 2023 and 2024, OpenAI faced multiple lawsuits for alleged copyright infringement against authors and media companies whose work was used to train some of OpenAI's products. In November 2023, OpenAI's board removed...

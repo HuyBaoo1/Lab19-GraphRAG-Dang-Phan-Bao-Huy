@@ -1,0 +1,16 @@
+Title: IBM Watson
+Requested: IBM Watson
+Page ID: 22584291
+URL: https://en.wikipedia.org/wiki/IBM_Watson
+Source: Wikipedia (en), plain-text extract via MediaWiki API
+---
+
+IBM Watson is a computer system capable of answering questions posed in natural language. It was developed as a part of IBM's DeepQA project by a research team, led by principal investigator David Ferrucci. Watson was named after IBM's founder and first CEO, industrialist Thomas J. Watson.
+The computer system was initially developed to answer questions on the popular quiz show Jeopardy! and in 2011, the Watson computer system competed on Jeopardy! against champions Brad Rutter and Ken Jennings, winning the first-place prize of US$1 million.
+In February 2013, IBM announced that Watson's first commercial application would be for utilization management decisions in lung cancer treatment, at Memorial Sloan Kettering Cancer Center, New York City, in conjunction with WellPoint (now Elevance Health).
+In 2022, IBM divested and spun-off their Watson Health division into Merative, which was sold to Francisco Partners, an American private equity firm. The division cost $4 billion to develop but was sold for $1 billion. By 2023, Watson resulted in IBM losing 10% of its stock value, costing four times more than what it brought to the company and resulting in mass layoffs.
+
+
+Description
+
+Watson...
