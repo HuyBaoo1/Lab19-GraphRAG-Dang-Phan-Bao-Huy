@@ -1,0 +1,9 @@
+Title: Google DeepMind
+Requested: Google DeepMind
+Page ID: 41755648
+URL: https://en.wikipedia.org/wiki/Google_DeepMind
+Source: Wikipedia (en), plain-text extract via MediaWiki API
+---
+
+DeepMind Technologies Limited, trading as Google DeepMind or simply DeepMind, is a British-American artificial intelligence (AI) research laboratory which serves as a subsidiary of Alphabet Inc. Founded in the UK in 2010, it was acquired by Google in 2014 and merged with Google AI's Google Brain division to become Google DeepMind in April 2023. The company is headquartered in London, with research centres in the United States, Canada, France, Germany, and Switzerland.
+In 2014, DeepMind introduced neural Turing machines (neural networks that can access external memory like a conventional Turing machine). The company has created many neural network models trained with reinforcement learning to play video games and board games. It made headlines in 2016 after its AlphaGo program beat Lee Sedol, a Go world champion, in a five-game match, which was later featured in the documentary AlphaGo. A more general program, AlphaZero, beat the most powerful programs playing go, chess and shogi (Japanese chess) after a few days of play against itself using reinforcement learning. DeepMind has since trained models for game-playing (MuZero, AlphaStar), for geometry (AlphaGeometry), and for algorithm...

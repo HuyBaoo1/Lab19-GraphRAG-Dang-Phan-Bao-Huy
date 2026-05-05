@@ -1,0 +1,18 @@
+# Secrets & môi trường local
+.env
+.env.local
+.env.*.local
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.Python
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Neo4j-*.txt

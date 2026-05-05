@@ -1,0 +1,1309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="edge" attr.name="doc_title" attr.type="string" />
+  <key id="d1" for="edge" attr.name="predicate" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="$1 billion">
+      <data key="d0">$1 billion</data>
+    </node>
+    <node id="$1 million">
+      <data key="d0">$1 million</data>
+    </node>
+    <node id="$101 million">
+      <data key="d0">$101 million</data>
+    </node>
+    <node id="$13 billion">
+      <data key="d0">$13 billion</data>
+    </node>
+    <node id="$380 billion">
+      <data key="d0">$380 billion</data>
+    </node>
+    <node id="$4 billion">
+      <data key="d0">$4 billion</data>
+    </node>
+    <node id="$500 billion">
+      <data key="d0">$500 billion</data>
+    </node>
+    <node id="$6.6 billion">
+      <data key="d0">$6.6 billion</data>
+    </node>
+    <node id="176 billion">
+      <data key="d0">176 billion</data>
+    </node>
+    <node id="1993">
+      <data key="d0">1993</data>
+    </node>
+    <node id="2010">
+      <data key="d0">2010</data>
+    </node>
+    <node id="2015">
+      <data key="d0">2015</data>
+    </node>
+    <node id="2016">
+      <data key="d0">2016</data>
+    </node>
+    <node id="2019">
+      <data key="d0">2019</data>
+    </node>
+    <node id="2021">
+      <data key="d0">2021</data>
+    </node>
+    <node id="2022">
+      <data key="d0">2022</data>
+    </node>
+    <node id="2023">
+      <data key="d0">2023</data>
+    </node>
+    <node id="92%">
+      <data key="d0">92%</data>
+    </node>
+    <node id="AWS customers">
+      <data key="d0">AWS customers</data>
+    </node>
+    <node id="Aidan Gomez">
+      <data key="d0">Aidan Gomez</data>
+    </node>
+    <node id="Aidan Gomez, Ivan Zhang, Nick Frosst">
+      <data key="d0">Aidan Gomez, Ivan Zhang, Nick Frosst</data>
+    </node>
+    <node id="Aleph Alpha">
+      <data key="d0">Aleph Alpha</data>
+    </node>
+    <node id="AlphaGo">
+      <data key="d0">AlphaGo</data>
+    </node>
+    <node id="AlphaZero">
+      <data key="d0">AlphaZero</data>
+    </node>
+    <node id="Alphabet Inc.">
+      <data key="d0">Alphabet Inc.</data>
+    </node>
+    <node id="Amazon Web Services">
+      <data key="d0">Amazon Web Services</data>
+    </node>
+    <node id="American">
+      <data key="d0">American</data>
+    </node>
+    <node id="Anthropic">
+      <data key="d0">Anthropic</data>
+    </node>
+    <node id="Arthur Mensch">
+      <data key="d0">Arthur Mensch</data>
+    </node>
+    <node id="Arthur Mensch, Guillaume Lample, Timothée Lacroix">
+      <data key="d0">Arthur Mensch, Guillaume Lample, Timothée Lacroix</data>
+    </node>
+    <node id="Attention Is All You Need">
+      <data key="d0">Attention Is All You Need</data>
+    </node>
+    <node id="August 2022">
+      <data key="d0">August 2022</data>
+    </node>
+    <node id="BLOOM">
+      <data key="d0">BLOOM</data>
+    </node>
+    <node id="BigScience Research Workshop">
+      <data key="d0">BigScience Research Workshop</data>
+    </node>
+    <node id="CEO">
+      <data key="d0">CEO</data>
+    </node>
+    <node id="CUDA">
+      <data key="d0">CUDA</data>
+    </node>
+    <node id="Canada">
+      <data key="d0">Canada</data>
+    </node>
+    <node id="Christian Laforte">
+      <data key="d0">Christian Laforte</data>
+    </node>
+    <node id="Claude">
+      <data key="d0">Claude</data>
+    </node>
+    <node id="Claude 4">
+      <data key="d0">Claude 4</data>
+    </node>
+    <node id="Clément Delangue, Julien Chaumond, Thomas Wolf">
+      <data key="d0">Clément Delangue, Julien Chaumond, Thomas Wolf</data>
+    </node>
+    <node id="Coatue and Lightspeed Venture Partners">
+      <data key="d0">Coatue and Lightspeed Venture Partners</data>
+    </node>
+    <node id="Cohere Inc.">
+      <data key="d0">Cohere Inc.</data>
+    </node>
+    <node id="DALL-E series of text-to-image models">
+      <data key="d0">DALL-E series of text-to-image models</data>
+    </node>
+    <node id="Daniela Amodei and Dario Amodei">
+      <data key="d0">Daniela Amodei and Dario Amodei</data>
+    </node>
+    <node id="Dario Amodei">
+      <data key="d0">Dario Amodei</data>
+    </node>
+    <node id="David Ferrucci">
+      <data key="d0">David Ferrucci</data>
+    </node>
+    <node id="DeepMind">
+      <data key="d0">DeepMind</data>
+    </node>
+    <node id="DeepMind Technologies Limited">
+      <data key="d0">DeepMind Technologies Limited</data>
+    </node>
+    <node id="Delaware">
+      <data key="d0">Delaware</data>
+    </node>
+    <node id="Emad Mostaque">
+      <data key="d0">Emad Mostaque</data>
+    </node>
+    <node id="Emad Mostaque and Cyrus Hodes">
+      <data key="d0">Emad Mostaque and Cyrus Hodes</data>
+    </node>
+    <node id="Financial Times">
+      <data key="d0">Financial Times</data>
+    </node>
+    <node id="France">
+      <data key="d0">France</data>
+    </node>
+    <node id="Francisco Partners">
+      <data key="d0">Francisco Partners</data>
+    </node>
+    <node id="GPT family of large language models">
+      <data key="d0">GPT family of large language models</data>
+    </node>
+    <node id="GeForce GPUs">
+      <data key="d0">GeForce GPUs</data>
+    </node>
+    <node id="Germany">
+      <data key="d0">Germany</data>
+    </node>
+    <node id="Google">
+      <data key="d0">Google</data>
+    </node>
+    <node id="Google AI's Google Brain division">
+      <data key="d0">Google AI's Google Brain division</data>
+    </node>
+    <node id="Google Brain">
+      <data key="d0">Google Brain</data>
+    </node>
+    <node id="Google DeepMind">
+      <data key="d0">Google DeepMind</data>
+    </node>
+    <node id="Google, Microsoft, Meta, General Motors, OpenAI, Time">
+      <data key="d0">Google, Microsoft, Meta, General Motors, OpenAI, Time</data>
+    </node>
+    <node id="Greycroft, Coatue Management, Sound Ventures, Lightspeed Venture Partners, and O’Shaughnessy Ventures">
+      <data key="d0">Greycroft, Coatue Management, Sound Ventures, Lightspeed Venture Partners, and O’Shaughnessy Ventures</data>
+    </node>
+    <node id="Guillaume Lample">
+      <data key="d0">Guillaume Lample</data>
+    </node>
+    <node id="Hugging Face, Inc.">
+      <data key="d0">Hugging Face, Inc.</data>
+    </node>
+    <node id="Humanity's Last Exam">
+      <data key="d0">Humanity's Last Exam</data>
+    </node>
+    <node id="IBM Watson">
+      <data key="d0">IBM Watson</data>
+    </node>
+    <node id="IBM losing 10% of its stock value">
+      <data key="d0">IBM losing 10% of its stock value</data>
+    </node>
+    <node id="IBM's DeepQA project">
+      <data key="d0">IBM's DeepQA project</data>
+    </node>
+    <node id="Ivan Zhang">
+      <data key="d0">Ivan Zhang</data>
+    </node>
+    <node id="Jan Leike and John Schulman">
+      <data key="d0">Jan Leike and John Schulman</data>
+    </node>
+    <node id="Jensen Huang, Chris Malachowsky, Curtis Priem">
+      <data key="d0">Jensen Huang, Chris Malachowsky, Curtis Priem</data>
+    </node>
+    <node id="Jeopardy!">
+      <data key="d0">Jeopardy!</data>
+    </node>
+    <node id="LLM Red Team">
+      <data key="d0">LLM Red Team</data>
+    </node>
+    <node id="Lee Sedol">
+      <data key="d0">Lee Sedol</data>
+    </node>
+    <node id="Lightspeed Venture Partners, Eric Schmidt, Xavier Niel, JCDecaux">
+      <data key="d0">Lightspeed Venture Partners, Eric Schmidt, Xavier Niel, JCDecaux</data>
+    </node>
+    <node id="London">
+      <data key="d0">London</data>
+    </node>
+    <node id="March 2023">
+      <data key="d0">March 2023</data>
+    </node>
+    <node id="Martin Kon">
+      <data key="d0">Martin Kon</data>
+    </node>
+    <node id="Memorial Sloan Kettering Cancer Center">
+      <data key="d0">Memorial Sloan Kettering Cancer Center</data>
+    </node>
+    <node id="Meta Platforms">
+      <data key="d0">Meta Platforms</data>
+    </node>
+    <node id="Microsoft">
+      <data key="d0">Microsoft</data>
+    </node>
+    <node id="Mistral AI">
+      <data key="d0">Mistral AI</data>
+    </node>
+    <node id="Mistral AI SAS">
+      <data key="d0">Mistral AI SAS</data>
+    </node>
+    <node id="Model Context Protocol (MCP)">
+      <data key="d0">Model Context Protocol (MCP)</data>
+    </node>
+    <node id="Montreal">
+      <data key="d0">Montreal</data>
+    </node>
+    <node id="New York City">
+      <data key="d0">New York City</data>
+    </node>
+    <node id="Nick Frosst">
+      <data key="d0">Nick Frosst</data>
+    </node>
+    <node id="November 2022">
+      <data key="d0">November 2022</data>
+    </node>
+    <node id="Nvidia Corporation">
+      <data key="d0">Nvidia Corporation</data>
+    </node>
+    <node id="Occitan language">
+      <data key="d0">Occitan language</data>
+    </node>
+    <node id="OpenAI Global, LLC">
+      <data key="d0">OpenAI Global, LLC</data>
+    </node>
+    <node id="OpenAI, Google DeepMind, national AI Safety Institutes">
+      <data key="d0">OpenAI, Google DeepMind, national AI Safety Institutes</data>
+    </node>
+    <node id="Outlier">
+      <data key="d0">Outlier</data>
+    </node>
+    <node id="Paris">
+      <data key="d0">Paris</data>
+    </node>
+    <node id="Prem Akkaraju">
+      <data key="d0">Prem Akkaraju</data>
+    </node>
+    <node id="Remotasks">
+      <data key="d0">Remotasks</data>
+    </node>
+    <node id="Remotasks, Outlier">
+      <data key="d0">Remotasks, Outlier</data>
+    </node>
+    <node id="Safety, Evaluation and Alignment Lab">
+      <data key="d0">Safety, Evaluation and Alignment Lab</data>
+    </node>
+    <node id="San Francisco">
+      <data key="d0">San Francisco</data>
+    </node>
+    <node id="San Francisco, California">
+      <data key="d0">San Francisco, California</data>
+    </node>
+    <node id="Santa Clara, California">
+      <data key="d0">Santa Clara, California</data>
+    </node>
+    <node id="Scale AI">
+      <data key="d0">Scale AI</data>
+    </node>
+    <node id="Scale AI's customers">
+      <data key="d0">Scale AI's customers</data>
+    </node>
+    <node id="Scale AI, Inc.">
+      <data key="d0">Scale AI, Inc.</data>
+    </node>
+    <node id="Seoul">
+      <data key="d0">Seoul</data>
+    </node>
+    <node id="Shan Shan Wong">
+      <data key="d0">Shan Shan Wong</data>
+    </node>
+    <node id="Sora series of text-to-video models">
+      <data key="d0">Sora series of text-to-video models</data>
+    </node>
+    <node id="Stability AI">
+      <data key="d0">Stability AI</data>
+    </node>
+    <node id="Stability AI Ltd">
+      <data key="d0">Stability AI Ltd</data>
+    </node>
+    <node id="Stable Diffusion">
+      <data key="d0">Stable Diffusion</data>
+    </node>
+    <node id="Switzerland">
+      <data key="d0">Switzerland</data>
+    </node>
+    <node id="Thomas J. Watson">
+      <data key="d0">Thomas J. Watson</data>
+    </node>
+    <node id="Timothée Lacroix">
+      <data key="d0">Timothée Lacroix</data>
+    </node>
+    <node id="Toronto">
+      <data key="d0">Toronto</data>
+    </node>
+    <node id="UK">
+      <data key="d0">UK</data>
+    </node>
+    <node id="United States">
+      <data key="d0">United States</data>
+    </node>
+    <node id="University of Toronto">
+      <data key="d0">University of Toronto</data>
+    </node>
+    <node id="Watson Health division">
+      <data key="d0">Watson Health division</data>
+    </node>
+    <node id="WellPoint">
+      <data key="d0">WellPoint</data>
+    </node>
+    <node id="algorithm">
+      <data key="d0">algorithm</data>
+    </node>
+    <node id="annotating data for LLMs">
+      <data key="d0">annotating data for LLMs</data>
+    </node>
+    <node id="application programming interfaces (APIs)">
+      <data key="d0">application programming interfaces (APIs)</data>
+    </node>
+    <node id="artificial intelligence (AI)">
+      <data key="d0">artificial intelligence (AI)</data>
+    </node>
+    <node id="automotive applications">
+      <data key="d0">automotive applications</data>
+    </node>
+    <node id="computer vision and autonomous vehicles">
+      <data key="d0">computer vision and autonomous vehicles</data>
+    </node>
+    <node id="copyright infringement">
+      <data key="d0">copyright infringement</data>
+    </node>
+    <node id="data annotation, RLHF services, large language model evaluation, enterprise software suites">
+      <data key="d0">data annotation, RLHF services, large language model evaluation, enterprise software suites</data>
+    </node>
+    <node id="data science">
+      <data key="d0">data science</data>
+    </node>
+    <node id="discrete desktop and laptop GPU market">
+      <data key="d0">discrete desktop and laptop GPU market</data>
+    </node>
+    <node id="documentary AlphaGo">
+      <data key="d0">documentary AlphaGo</data>
+    </node>
+    <node id="edge computing">
+      <data key="d0">edge computing</data>
+    </node>
+    <node id="evaluating and aligning LLMs">
+      <data key="d0">evaluating and aligning LLMs</data>
+    </node>
+    <node id="four times more than what it brought to the company">
+      <data key="d0">four times more than what it brought to the company</data>
+    </node>
+    <node id="game-playing">
+      <data key="d0">game-playing</data>
+    </node>
+    <node id="geometry">
+      <data key="d0">geometry</data>
+    </node>
+    <node id="graphics processing units (GPUs)">
+      <data key="d0">graphics processing units (GPUs)</data>
+    </node>
+    <node id="high-performance computing">
+      <data key="d0">high-performance computing</data>
+    </node>
+    <node id="human adversarial testing">
+      <data key="d0">human adversarial testing</data>
+    </node>
+    <node id="industrial applications">
+      <data key="d0">industrial applications</data>
+    </node>
+    <node id="industry research and commercial applications">
+      <data key="d0">industry research and commercial applications</data>
+    </node>
+    <node id="interim co-CEO">
+      <data key="d0">interim co-CEO</data>
+    </node>
+    <node id="mass layoffs">
+      <data key="d0">mass layoffs</data>
+    </node>
+    <node id="mistral">
+      <data key="d0">mistral</data>
+    </node>
+    <node id="mobile applications">
+      <data key="d0">mobile applications</data>
+    </node>
+    <node id="more than 80%">
+      <data key="d0">more than 80%</data>
+    </node>
+    <node id="more than US$14 billion">
+      <data key="d0">more than US$14 billion</data>
+    </node>
+    <node id="most powerful programs playing go, chess and shogi">
+      <data key="d0">most powerful programs playing go, chess and shogi</data>
+    </node>
+    <node id="multilingual large language model">
+      <data key="d0">multilingual large language model</data>
+    </node>
+    <node id="multiple lawsuits">
+      <data key="d0">multiple lawsuits</data>
+    </node>
+    <node id="natural language processing applications">
+      <data key="d0">natural language processing applications</data>
+    </node>
+    <node id="neural Turing machines">
+      <data key="d0">neural Turing machines</data>
+    </node>
+    <node id="neural network models">
+      <data key="d0">neural network models</data>
+    </node>
+    <node id="nonprofit foundation">
+      <data key="d0">nonprofit foundation</data>
+    </node>
+    <node id="open large language model">
+      <data key="d0">open large language model</data>
+    </node>
+    <node id="over a billion dollars">
+      <data key="d0">over a billion dollars</data>
+    </node>
+    <node id="professional GPUs">
+      <data key="d0">professional GPUs</data>
+    </node>
+    <node id="professional visualization">
+      <data key="d0">professional visualization</data>
+    </node>
+    <node id="reinforcement learning">
+      <data key="d0">reinforcement learning</data>
+    </node>
+    <node id="research team">
+      <data key="d0">research team</data>
+    </node>
+    <node id="scientific research">
+      <data key="d0">scientific research</data>
+    </node>
+    <node id="several other research groups">
+      <data key="d0">several other research groups</data>
+    </node>
+    <node id="state-of-the-art performance">
+      <data key="d0">state-of-the-art performance</data>
+    </node>
+    <node id="supercomputing">
+      <data key="d0">supercomputing</data>
+    </node>
+    <node id="systems on chips (SoCs)">
+      <data key="d0">systems on chips (SoCs)</data>
+    </node>
+    <node id="transformer machine learning architecture">
+      <data key="d0">transformer machine learning architecture</data>
+    </node>
+    <node id="transformers library">
+      <data key="d0">transformers library</data>
+    </node>
+    <node id="utilization management decisions in lung cancer treatment">
+      <data key="d0">utilization management decisions in lung cancer treatment</data>
+    </node>
+    <node id="video games">
+      <data key="d0">video games</data>
+    </node>
+    <node id="vulnerabilities, biases, safety risks in AI models">
+      <data key="d0">vulnerabilities, biases, safety risks in AI models</data>
+    </node>
+    <node id="world governments">
+      <data key="d0">world governments</data>
+    </node>
+    <node id="École Polytechnique">
+      <data key="d0">École Polytechnique</data>
+    </node>
+    <node id="€105 million ($117 million)">
+      <data key="d0">€105 million ($117 million)</data>
+    </node>
+    <node id="€240 million ($267 million)">
+      <data key="d0">€240 million ($267 million)</data>
+    </node>
+    <edge source="Aidan Gomez" target="Cohere Inc.">
+      <data key="d1">CEO_OF</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">CEO_OF</data>
+    </edge>
+    <edge source="Aidan Gomez" target="University of Toronto">
+      <data key="d1">ATTENDED</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">ATTENDED</data>
+    </edge>
+    <edge source="Aleph Alpha" target="Germany">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="AlphaGo" target="Lee Sedol">
+      <data key="d1">BEAT</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">BEAT</data>
+    </edge>
+    <edge source="AlphaGo" target="documentary AlphaGo">
+      <data key="d1">FEATURED_IN</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">FEATURED_IN</data>
+    </edge>
+    <edge source="AlphaZero" target="most powerful programs playing go, chess and shogi">
+      <data key="d1">BEAT</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">BEAT</data>
+    </edge>
+    <edge source="Anthropic" target="Claude">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="Anthropic" target="San Francisco">
+      <data key="d1">HEADQUARTERED_IN</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">HEADQUARTERED_IN</data>
+    </edge>
+    <edge source="Anthropic" target="2021">
+      <data key="d1">FOUNDED_IN</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">FOUNDED_IN</data>
+    </edge>
+    <edge source="Anthropic" target="Daniela Amodei and Dario Amodei">
+      <data key="d1">FOUNDED_BY</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">FOUNDED_BY</data>
+    </edge>
+    <edge source="Anthropic" target="$380 billion">
+      <data key="d1">VALUED_AT</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">VALUED_AT</data>
+    </edge>
+    <edge source="Anthropic" target="Jan Leike and John Schulman">
+      <data key="d1">HIRED</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">HIRED</data>
+    </edge>
+    <edge source="Anthropic" target="Claude 4">
+      <data key="d1">ANNOUNCED_PRODUCT</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">ANNOUNCED_PRODUCT</data>
+    </edge>
+    <edge source="Anthropic" target="Model Context Protocol (MCP)">
+      <data key="d1">INTRODUCED</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">INTRODUCED</data>
+    </edge>
+    <edge source="Arthur Mensch" target="Google DeepMind">
+      <data key="d1">FORMER_EMPLOYEE_OF</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">FORMER_EMPLOYEE_OF</data>
+    </edge>
+    <edge source="Arthur Mensch, Guillaume Lample, Timothée Lacroix" target="École Polytechnique">
+      <data key="d1">MET_AT</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">MET_AT</data>
+    </edge>
+    <edge source="Attention Is All You Need" target="state-of-the-art performance">
+      <data key="d1">DEMONSTRATED</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">DEMONSTRATED</data>
+    </edge>
+    <edge source="BLOOM" target="multilingual large language model">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="BLOOM" target="176 billion">
+      <data key="d1">HAS_PARAMETERS</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">HAS_PARAMETERS</data>
+    </edge>
+    <edge source="BigScience Research Workshop" target="several other research groups">
+      <data key="d1">COLLABORATED_WITH</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">COLLABORATED_WITH</data>
+    </edge>
+    <edge source="BigScience Research Workshop" target="open large language model">
+      <data key="d1">RELEASED</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">RELEASED</data>
+    </edge>
+    <edge source="BigScience Research Workshop" target="2022">
+      <data key="d1">CONCLUDED_IN</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">CONCLUDED_IN</data>
+    </edge>
+    <edge source="Christian Laforte" target="interim co-CEO">
+      <data key="d1">APPOINTED_AS</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">APPOINTED_AS</data>
+    </edge>
+    <edge source="Claude" target="March 2023">
+      <data key="d1">RELEASED_IN</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">RELEASED_IN</data>
+    </edge>
+    <edge source="Coatue and Lightspeed Venture Partners" target="$101 million">
+      <data key="d1">LED_INVESTMENT_ROUND</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">LED_INVESTMENT_ROUND</data>
+    </edge>
+    <edge source="Cohere Inc." target="Aleph Alpha">
+      <data key="d1">ACQUIRED</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">ACQUIRED</data>
+    </edge>
+    <edge source="Cohere Inc." target="San Francisco">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Cohere Inc." target="2019">
+      <data key="d1">FOUNDED_IN</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">FOUNDED_IN</data>
+    </edge>
+    <edge source="Cohere Inc." target="Aidan Gomez, Ivan Zhang, Nick Frosst">
+      <data key="d1">FOUNDED_BY</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">FOUNDED_BY</data>
+    </edge>
+    <edge source="Cohere Inc." target="Toronto">
+      <data key="d1">HEADQUARTERED_IN</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">HEADQUARTERED_IN</data>
+    </edge>
+    <edge source="Cohere Inc." target="Montreal">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Cohere Inc." target="New York City">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Cohere Inc." target="London">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Cohere Inc." target="Paris">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Cohere Inc." target="Seoul">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Dario Amodei" target="Anthropic">
+      <data key="d1">CEO_OF</data>
+      <data key="d2">Anthropic</data>
+      <data key="d3">CEO_OF</data>
+    </edge>
+    <edge source="David Ferrucci" target="research team">
+      <data key="d1">LED</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">LED</data>
+    </edge>
+    <edge source="DeepMind" target="neural Turing machines">
+      <data key="d1">INTRODUCED</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">INTRODUCED</data>
+    </edge>
+    <edge source="DeepMind" target="neural network models">
+      <data key="d1">CREATED</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">CREATED</data>
+    </edge>
+    <edge source="DeepMind" target="reinforcement learning">
+      <data key="d1">TRAINED_WITH</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">TRAINED_WITH</data>
+    </edge>
+    <edge source="DeepMind" target="game-playing">
+      <data key="d1">TRAINED_MODELS_FOR</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">TRAINED_MODELS_FOR</data>
+    </edge>
+    <edge source="DeepMind" target="geometry">
+      <data key="d1">TRAINED_MODELS_FOR</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">TRAINED_MODELS_FOR</data>
+    </edge>
+    <edge source="DeepMind" target="algorithm">
+      <data key="d1">TRAINED_MODELS_FOR</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">TRAINED_MODELS_FOR</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="DeepMind">
+      <data key="d1">TRADING_AS</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">TRADING_AS</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="London">
+      <data key="d1">HEADQUARTERED_IN</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">HEADQUARTERED_IN</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="Germany">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="Google DeepMind">
+      <data key="d1">REBRANDED_AS</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">REBRANDED_AS</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="Alphabet Inc.">
+      <data key="d1">SUBSIDIARY_OF</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">SUBSIDIARY_OF</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="2010">
+      <data key="d1">FOUNDED_IN</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">FOUNDED_IN</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="Google">
+      <data key="d1">ACQUIRED_BY</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">ACQUIRED_BY</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="Google AI's Google Brain division">
+      <data key="d1">MERGED_WITH</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">MERGED_WITH</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="United States">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="Canada">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="France">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="DeepMind Technologies Limited" target="Switzerland">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Google DeepMind</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Emad Mostaque" target="CEO">
+      <data key="d1">STEPPED_DOWN_AS</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">STEPPED_DOWN_AS</data>
+    </edge>
+    <edge source="Google Brain" target="transformer machine learning architecture">
+      <data key="d1">INTRODUCED</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">INTRODUCED</data>
+    </edge>
+    <edge source="Guillaume Lample" target="Meta Platforms">
+      <data key="d1">FORMER_EMPLOYEE_OF</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">FORMER_EMPLOYEE_OF</data>
+    </edge>
+    <edge source="Hugging Face, Inc." target="transformers library">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="Hugging Face, Inc." target="BigScience Research Workshop">
+      <data key="d1">LAUNCHED</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">LAUNCHED</data>
+    </edge>
+    <edge source="Hugging Face, Inc." target="New York City">
+      <data key="d1">HEADQUARTERED_IN</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">HEADQUARTERED_IN</data>
+    </edge>
+    <edge source="Hugging Face, Inc." target="2016">
+      <data key="d1">FOUNDED_IN</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">FOUNDED_IN</data>
+    </edge>
+    <edge source="Hugging Face, Inc." target="Clément Delangue, Julien Chaumond, Thomas Wolf">
+      <data key="d1">FOUNDED_BY</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">FOUNDED_BY</data>
+    </edge>
+    <edge source="Hugging Face, Inc." target="Amazon Web Services">
+      <data key="d1">ANNOUNCED_PARTNERSHIP_WITH</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">ANNOUNCED_PARTNERSHIP_WITH</data>
+    </edge>
+    <edge source="Hugging Face, Inc." target="AWS customers">
+      <data key="d1">PRODUCTS_AVAILABLE_TO</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">PRODUCTS_AVAILABLE_TO</data>
+    </edge>
+    <edge source="IBM Watson" target="Watson Health division">
+      <data key="d1">DIVESTED_AND_SPUN_OFF</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">DIVESTED_AND_SPUN_OFF</data>
+    </edge>
+    <edge source="IBM Watson" target="IBM's DeepQA project">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="IBM Watson" target="Thomas J. Watson">
+      <data key="d1">NAMED_AFTER</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">NAMED_AFTER</data>
+    </edge>
+    <edge source="IBM Watson" target="Jeopardy!">
+      <data key="d1">COMPETED_ON</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">COMPETED_ON</data>
+    </edge>
+    <edge source="IBM Watson" target="$1 million">
+      <data key="d1">WON_PRIZE</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">WON_PRIZE</data>
+    </edge>
+    <edge source="IBM Watson" target="utilization management decisions in lung cancer treatment">
+      <data key="d1">FIRST_COMMERCIAL_APPLICATION</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">FIRST_COMMERCIAL_APPLICATION</data>
+    </edge>
+    <edge source="IBM Watson" target="WellPoint">
+      <data key="d1">IN_CONJUNCTION_WITH</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">IN_CONJUNCTION_WITH</data>
+    </edge>
+    <edge source="IBM Watson" target="IBM losing 10% of its stock value">
+      <data key="d1">RESULTED_IN</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">RESULTED_IN</data>
+    </edge>
+    <edge source="IBM Watson" target="four times more than what it brought to the company">
+      <data key="d1">COSTED</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">COSTED</data>
+    </edge>
+    <edge source="IBM Watson" target="mass layoffs">
+      <data key="d1">RESULTED_IN</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">RESULTED_IN</data>
+    </edge>
+    <edge source="Ivan Zhang" target="University of Toronto">
+      <data key="d1">ATTENDED</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">ATTENDED</data>
+    </edge>
+    <edge source="LLM Red Team" target="human adversarial testing">
+      <data key="d1">CONDUCTS</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">CONDUCTS</data>
+    </edge>
+    <edge source="LLM Red Team" target="vulnerabilities, biases, safety risks in AI models">
+      <data key="d1">IDENTIFIES</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">IDENTIFIES</data>
+    </edge>
+    <edge source="LLM Red Team" target="OpenAI, Google DeepMind, national AI Safety Institutes">
+      <data key="d1">WORKED_WITH</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">WORKED_WITH</data>
+    </edge>
+    <edge source="Martin Kon" target="Cohere Inc.">
+      <data key="d1">COO_OF</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">COO_OF</data>
+    </edge>
+    <edge source="Memorial Sloan Kettering Cancer Center" target="New York City">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Microsoft" target="$13 billion">
+      <data key="d1">INVESTMENT_FROM</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">INVESTMENT_FROM</data>
+    </edge>
+    <edge source="Mistral AI" target="Arthur Mensch, Guillaume Lample, Timothée Lacroix">
+      <data key="d1">ESTABLISHED_BY</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">ESTABLISHED_BY</data>
+    </edge>
+    <edge source="Mistral AI SAS" target="mistral">
+      <data key="d1">NAMED_AFTER</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">NAMED_AFTER</data>
+    </edge>
+    <edge source="Mistral AI SAS" target="Paris">
+      <data key="d1">HEADQUARTERED_IN</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">HEADQUARTERED_IN</data>
+    </edge>
+    <edge source="Mistral AI SAS" target="2023">
+      <data key="d1">FOUNDED_IN</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">FOUNDED_IN</data>
+    </edge>
+    <edge source="Mistral AI SAS" target="more than US$14 billion">
+      <data key="d1">VALUED_AT</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">VALUED_AT</data>
+    </edge>
+    <edge source="Mistral AI SAS" target="€105 million ($117 million)">
+      <data key="d1">CARRIED_OUT_FUNDRAISING_OF</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">CARRIED_OUT_FUNDRAISING_OF</data>
+    </edge>
+    <edge source="Mistral AI SAS" target="Lightspeed Venture Partners, Eric Schmidt, Xavier Niel, JCDecaux">
+      <data key="d1">INVESTMENT_FROM</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">INVESTMENT_FROM</data>
+    </edge>
+    <edge source="Mistral AI SAS" target="Financial Times">
+      <data key="d1">VALUATION_ESTIMATED_BY</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">VALUATION_ESTIMATED_BY</data>
+    </edge>
+    <edge source="Mistral AI SAS" target="€240 million ($267 million)">
+      <data key="d1">VALUED_AT</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">VALUED_AT</data>
+    </edge>
+    <edge source="Nick Frosst" target="University of Toronto">
+      <data key="d1">ATTENDED</data>
+      <data key="d2">Cohere</data>
+      <data key="d3">ATTENDED</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="Santa Clara, California">
+      <data key="d1">HEADQUARTERED_IN</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">HEADQUARTERED_IN</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="1993">
+      <data key="d1">FOUNDED_IN</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">FOUNDED_IN</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="Jensen Huang, Chris Malachowsky, Curtis Priem">
+      <data key="d1">FOUNDED_BY</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">FOUNDED_BY</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="graphics processing units (GPUs)">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="systems on chips (SoCs)">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="application programming interfaces (APIs)">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="data science">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="high-performance computing">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="video games">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="mobile applications">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="automotive applications">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="92%">
+      <data key="d1">MARKET_SHARE</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">MARKET_SHARE</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="discrete desktop and laptop GPU market">
+      <data key="d1">MARKET_SHARE_OF</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">MARKET_SHARE_OF</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="over a billion dollars">
+      <data key="d1">INVESTMENT_FROM</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">INVESTMENT_FROM</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="CUDA">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="more than 80%">
+      <data key="d1">CONTROLLED_MARKET_SHARE</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">CONTROLLED_MARKET_SHARE</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="artificial intelligence (AI)">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="professional visualization">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="supercomputing">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="GeForce GPUs">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="professional GPUs">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="edge computing">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="scientific research">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="Nvidia Corporation" target="industrial applications">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Nvidia</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="San Francisco">
+      <data key="d1">HEADQUARTERED_IN</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">HEADQUARTERED_IN</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="GPT family of large language models">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="DALL-E series of text-to-image models">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="Sora series of text-to-video models">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="November 2022">
+      <data key="d1">RELEASED_IN</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">RELEASED_IN</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="2015">
+      <data key="d1">FOUNDED_IN</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">FOUNDED_IN</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="Delaware">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="nonprofit foundation">
+      <data key="d1">OWNED_BY</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">OWNED_BY</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="$500 billion">
+      <data key="d1">VALUED_AT</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">VALUED_AT</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="$6.6 billion">
+      <data key="d1">CONDUCTED_SHARE_SALE</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">CONDUCTED_SHARE_SALE</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="multiple lawsuits">
+      <data key="d1">FACED_LEGAL_ACTION_AGAINST</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">FACED_LEGAL_ACTION_AGAINST</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="copyright infringement">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+    <edge source="OpenAI Global, LLC" target="industry research and commercial applications">
+      <data key="d1">INFLUENCED</data>
+      <data key="d2">OpenAI</data>
+      <data key="d3">INFLUENCED</data>
+    </edge>
+    <edge source="Outlier" target="annotating data for LLMs">
+      <data key="d1">FOCUSES_ON</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">FOCUSES_ON</data>
+    </edge>
+    <edge source="Prem Akkaraju" target="CEO">
+      <data key="d1">APPOINTED_AS</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">APPOINTED_AS</data>
+    </edge>
+    <edge source="Remotasks" target="computer vision and autonomous vehicles">
+      <data key="d1">FOCUSES_ON</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">FOCUSES_ON</data>
+    </edge>
+    <edge source="Safety, Evaluation and Alignment Lab" target="evaluating and aligning LLMs">
+      <data key="d1">FOCUSES_ON</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">FOCUSES_ON</data>
+    </edge>
+    <edge source="Safety, Evaluation and Alignment Lab" target="Humanity's Last Exam">
+      <data key="d1">CO_CREATED</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">CO_CREATED</data>
+    </edge>
+    <edge source="Scale AI" target="LLM Red Team">
+      <data key="d1">OPERATES</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">OPERATES</data>
+    </edge>
+    <edge source="Scale AI" target="Remotasks, Outlier">
+      <data key="d1">OUTSOURCES_DATA_LABELING_THROUGH</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">OUTSOURCES_DATA_LABELING_THROUGH</data>
+    </edge>
+    <edge source="Scale AI" target="world governments">
+      <data key="d1">DIRECTLY_WORKS_WITH</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">DIRECTLY_WORKS_WITH</data>
+    </edge>
+    <edge source="Scale AI's customers" target="Google, Microsoft, Meta, General Motors, OpenAI, Time">
+      <data key="d1">INCLUDES</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">INCLUDES</data>
+    </edge>
+    <edge source="Scale AI, Inc." target="San Francisco, California">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Scale AI, Inc." target="American">
+      <data key="d1">FOUNDED_IN</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">FOUNDED_IN</data>
+    </edge>
+    <edge source="Scale AI, Inc." target="data annotation, RLHF services, large language model evaluation, enterprise software suites">
+      <data key="d1">OFFERED_SERVICES</data>
+      <data key="d2">Scale AI</data>
+      <data key="d3">OFFERED_SERVICES</data>
+    </edge>
+    <edge source="Shan Shan Wong" target="interim co-CEO">
+      <data key="d1">APPOINTED_AS</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">APPOINTED_AS</data>
+    </edge>
+    <edge source="Stability AI" target="2019">
+      <data key="d1">FOUNDED_IN</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">FOUNDED_IN</data>
+    </edge>
+    <edge source="Stability AI" target="Emad Mostaque and Cyrus Hodes">
+      <data key="d1">FOUNDED_BY</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">FOUNDED_BY</data>
+    </edge>
+    <edge source="Stability AI" target="August 2022">
+      <data key="d1">RELEASED_IN</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">RELEASED_IN</data>
+    </edge>
+    <edge source="Stability AI" target="$101 million">
+      <data key="d1">CLOSED_INVESTMENT_ROUND</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">CLOSED_INVESTMENT_ROUND</data>
+    </edge>
+    <edge source="Stability AI" target="Greycroft, Coatue Management, Sound Ventures, Lightspeed Venture Partners, and O’Shaughnessy Ventures">
+      <data key="d1">CLOSED_INVESTMENT_FROM</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">CLOSED_INVESTMENT_FROM</data>
+    </edge>
+    <edge source="Stability AI Ltd" target="UK">
+      <data key="d1">LOCATED_IN</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">LOCATED_IN</data>
+    </edge>
+    <edge source="Stability AI Ltd" target="Stable Diffusion">
+      <data key="d1">DEVELOPED_PRODUCT</data>
+      <data key="d2">Stability AI</data>
+      <data key="d3">DEVELOPED_PRODUCT</data>
+    </edge>
+    <edge source="Timothée Lacroix" target="Meta Platforms">
+      <data key="d1">FORMER_EMPLOYEE_OF</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">FORMER_EMPLOYEE_OF</data>
+    </edge>
+    <edge source="Watson Health division" target="Francisco Partners">
+      <data key="d1">SOLD_TO</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">SOLD_TO</data>
+    </edge>
+    <edge source="Watson Health division" target="$4 billion">
+      <data key="d1">COST_TO_DEVELOP</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">COST_TO_DEVELOP</data>
+    </edge>
+    <edge source="Watson Health division" target="$1 billion">
+      <data key="d1">SOLD_FOR</data>
+      <data key="d2">IBM Watson</data>
+      <data key="d3">SOLD_FOR</data>
+    </edge>
+    <edge source="mistral" target="Occitan language">
+      <data key="d1">ORIGINATES_FROM</data>
+      <data key="d2">Mistral AI</data>
+      <data key="d3">ORIGINATES_FROM</data>
+    </edge>
+    <edge source="transformers library" target="natural language processing applications">
+      <data key="d1">RELATED_TO</data>
+      <data key="d2">Hugging Face</data>
+      <data key="d3">RELATED_TO</data>
+    </edge>
+  </graph>
+</graphml>

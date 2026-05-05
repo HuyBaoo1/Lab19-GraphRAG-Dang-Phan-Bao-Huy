@@ -1,0 +1,22 @@
+Title: Anthropic
+Requested: Anthropic
+Page ID: 6206236
+URL: https://en.wikipedia.org/wiki/Anthropic
+Source: Wikipedia (en), plain-text extract via MediaWiki API
+---
+
+Anthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a range of large language models (LLMs) named Claude and focuses on AI safety.
+Anthropic was founded in 2021 by former members of OpenAI, including siblings Daniela Amodei and Dario Amodei, who are president and CEO, respectively. The company is privately held and, as of February 2026, had an estimated value of $380 billion.
+
+
+History
+
+
+2021–2023
+Anthropic was founded in 2021 by seven former employees of OpenAI, including siblings Daniela Amodei and Dario Amodei, the latter of whom was OpenAI's Vice President of Research.
+In the summer of 2022, Anthropic finished training the first version of Claude but did not immediately release it, citing a need for further internal safety testing and a desire to avoid initiating a potentially hazardous race to develop increasingly powerful AI systems. It was released in March 2023.
+
+
+2024–present
+In 2024, Anthropic hired several notable employees from OpenAI, including Jan Leike and John Schulman.
+In May 2025, the company announced Claude 4. It also introduced new API capabilities, including the Model Context Protocol (MCP)...

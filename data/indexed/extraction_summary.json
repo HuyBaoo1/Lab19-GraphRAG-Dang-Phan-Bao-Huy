@@ -1,0 +1,68 @@
+{
+  "model": "gpt-4o-mini",
+  "corpus_dir": "data\\wikipedia_ai_companies",
+  "documents": 10,
+  "total_triples": 159,
+  "per_document": [
+    {
+      "source_file": "Anthropic.txt",
+      "doc_title": "Anthropic",
+      "triple_count": 10,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "source_file": "Cohere.txt",
+      "doc_title": "Cohere",
+      "triple_count": 19,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "source_file": "Google_DeepMind.txt",
+      "doc_title": "Google DeepMind",
+      "triple_count": 22,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "source_file": "Hugging_Face.txt",
+      "doc_title": "Hugging Face",
+      "triple_count": 13,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "source_file": "IBM_Watson.txt",
+      "doc_title": "IBM Watson",
+      "triple_count": 16,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "source_file": "Mistral_AI.txt",
+      "doc_title": "Mistral AI",
+      "triple_count": 14,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "source_file": "Nvidia.txt",
+      "doc_title": "Nvidia",
+      "triple_count": 24,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "source_file": "OpenAI.txt",
+      "doc_title": "OpenAI",
+      "triple_count": 15,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "source_file": "Scale_AI.txt",
+      "doc_title": "Scale AI",
+      "triple_count": 14,
+      "model": "gpt-4o-mini"
+    },
+    {
+      "source_file": "Stability_AI.txt",
+      "doc_title": "Stability AI",
+      "triple_count": 12,
+      "model": "gpt-4o-mini"
+    }
+  ]
+}

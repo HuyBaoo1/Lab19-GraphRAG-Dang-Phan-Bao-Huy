@@ -1,0 +1,14 @@
+Title: Cohere
+Requested: Cohere
+Page ID: 69643817
+URL: https://en.wikipedia.org/wiki/Cohere
+Source: Wikipedia (en), plain-text extract via MediaWiki API
+---
+
+Cohere Inc. is a Canada-based international technology company focused on artificial intelligence. Cohere specializes in large language models and AI products for regulated industries, particularly the finance, healthcare, manufacturing, and energy fields, as well as the public sector.  Cohere was founded in 2019 by Aidan Gomez, Ivan Zhang, and Nick Frosst and is headquartered in Toronto, with offices in Montreal, New York City, San Francisco, London,  Paris, and Seoul. In April 2026, Cohere agreed to acquire AI firm Aleph Alpha of Germany.
+
+
+History
+In 2017, a team of researchers at Google Brain introduced the transformer machine learning architecture in "Attention Is All You Need," which demonstrated state-of-the-art performance on a variety of natural language processing tasks. In 2019, Aidan Gomez, one of its co-authors, along with Nick Frosst, another researcher at Google Brain, founded Cohere with Ivan Zhang, with whom Gomez had done research at FOR.ai. All of the co-founders attended the University of Toronto. 
+Gomez is the company's CEO. In December 2022, Martin Kon, the former CFO of YouTube, became president and COO.
+In November 2021, Google Cloud announced they would...

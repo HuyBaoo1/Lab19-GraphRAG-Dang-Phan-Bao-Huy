@@ -1,0 +1,159 @@
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Anthropic", "predicate": "HEADQUARTERED_IN", "object": "San Francisco"}
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Anthropic", "predicate": "DEVELOPED_PRODUCT", "object": "Claude"}
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Anthropic", "predicate": "FOUNDED_IN", "object": "2021"}
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Anthropic", "predicate": "FOUNDED_BY", "object": "Daniela Amodei and Dario Amodei"}
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Dario Amodei", "predicate": "CEO_OF", "object": "Anthropic"}
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Anthropic", "predicate": "VALUED_AT", "object": "$380 billion"}
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Claude", "predicate": "RELEASED_IN", "object": "March 2023"}
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Anthropic", "predicate": "HIRED", "object": "Jan Leike and John Schulman"}
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Anthropic", "predicate": "ANNOUNCED_PRODUCT", "object": "Claude 4"}
+{"source_file": "Anthropic.txt", "doc_title": "Anthropic", "subject": "Anthropic", "predicate": "INTRODUCED", "object": "Model Context Protocol (MCP)"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "FOUNDED_IN", "object": "2019"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "FOUNDED_BY", "object": "Aidan Gomez, Ivan Zhang, Nick Frosst"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "HEADQUARTERED_IN", "object": "Toronto"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "LOCATED_IN", "object": "Montreal"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "LOCATED_IN", "object": "New York City"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "LOCATED_IN", "object": "San Francisco"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "LOCATED_IN", "object": "London"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "LOCATED_IN", "object": "Paris"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "LOCATED_IN", "object": "Seoul"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Cohere Inc.", "predicate": "ACQUIRED", "object": "Aleph Alpha"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Aleph Alpha", "predicate": "LOCATED_IN", "object": "Germany"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Aidan Gomez", "predicate": "CEO_OF", "object": "Cohere Inc."}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Martin Kon", "predicate": "PRESIDENT_OF", "object": "Cohere Inc."}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Martin Kon", "predicate": "COO_OF", "object": "Cohere Inc."}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Aidan Gomez", "predicate": "ATTENDED", "object": "University of Toronto"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Ivan Zhang", "predicate": "ATTENDED", "object": "University of Toronto"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Nick Frosst", "predicate": "ATTENDED", "object": "University of Toronto"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Google Brain", "predicate": "INTRODUCED", "object": "transformer machine learning architecture"}
+{"source_file": "Cohere.txt", "doc_title": "Cohere", "subject": "Attention Is All You Need", "predicate": "DEMONSTRATED", "object": "state-of-the-art performance"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "TRADING_AS", "object": "Google DeepMind"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "TRADING_AS", "object": "DeepMind"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "SUBSIDIARY_OF", "object": "Alphabet Inc."}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "FOUNDED_IN", "object": "2010"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "ACQUIRED_BY", "object": "Google"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "MERGED_WITH", "object": "Google AI's Google Brain division"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "REBRANDED_AS", "object": "Google DeepMind"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "HEADQUARTERED_IN", "object": "London"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "LOCATED_IN", "object": "United States"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "LOCATED_IN", "object": "Canada"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "LOCATED_IN", "object": "France"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "LOCATED_IN", "object": "Germany"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind Technologies Limited", "predicate": "LOCATED_IN", "object": "Switzerland"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind", "predicate": "INTRODUCED", "object": "neural Turing machines"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind", "predicate": "CREATED", "object": "neural network models"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind", "predicate": "TRAINED_WITH", "object": "reinforcement learning"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "AlphaGo", "predicate": "BEAT", "object": "Lee Sedol"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "AlphaGo", "predicate": "FEATURED_IN", "object": "documentary AlphaGo"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "AlphaZero", "predicate": "BEAT", "object": "most powerful programs playing go, chess and shogi"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind", "predicate": "TRAINED_MODELS_FOR", "object": "game-playing"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind", "predicate": "TRAINED_MODELS_FOR", "object": "geometry"}
+{"source_file": "Google_DeepMind.txt", "doc_title": "Google DeepMind", "subject": "DeepMind", "predicate": "TRAINED_MODELS_FOR", "object": "algorithm"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "Hugging Face, Inc.", "predicate": "FOUNDED_IN", "object": "2016"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "Hugging Face, Inc.", "predicate": "FOUNDED_BY", "object": "Clément Delangue, Julien Chaumond, Thomas Wolf"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "Hugging Face, Inc.", "predicate": "HEADQUARTERED_IN", "object": "New York City"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "Hugging Face, Inc.", "predicate": "DEVELOPED_PRODUCT", "object": "transformers library"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "transformers library", "predicate": "RELATED_TO", "object": "natural language processing applications"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "Hugging Face, Inc.", "predicate": "LAUNCHED", "object": "BigScience Research Workshop"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "BigScience Research Workshop", "predicate": "COLLABORATED_WITH", "object": "several other research groups"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "BigScience Research Workshop", "predicate": "RELEASED", "object": "open large language model"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "BigScience Research Workshop", "predicate": "CONCLUDED_IN", "object": "2022"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "BLOOM", "predicate": "RELATED_TO", "object": "multilingual large language model"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "BLOOM", "predicate": "HAS_PARAMETERS", "object": "176 billion"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "Hugging Face, Inc.", "predicate": "ANNOUNCED_PARTNERSHIP_WITH", "object": "Amazon Web Services"}
+{"source_file": "Hugging_Face.txt", "doc_title": "Hugging Face", "subject": "Hugging Face, Inc.", "predicate": "PRODUCTS_AVAILABLE_TO", "object": "AWS customers"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "DEVELOPED_PRODUCT", "object": "IBM's DeepQA project"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "David Ferrucci", "predicate": "LED", "object": "research team"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "NAMED_AFTER", "object": "Thomas J. Watson"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "INITIAL_USE", "object": "Jeopardy!"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "COMPETED_ON", "object": "Jeopardy!"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "WON_PRIZE", "object": "$1 million"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "FIRST_COMMERCIAL_APPLICATION", "object": "utilization management decisions in lung cancer treatment"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "Memorial Sloan Kettering Cancer Center", "predicate": "LOCATED_IN", "object": "New York City"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "IN_CONJUNCTION_WITH", "object": "WellPoint"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "DIVESTED_AND_SPUN_OFF", "object": "Watson Health division"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "Watson Health division", "predicate": "SOLD_TO", "object": "Francisco Partners"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "Watson Health division", "predicate": "COST_TO_DEVELOP", "object": "$4 billion"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "Watson Health division", "predicate": "SOLD_FOR", "object": "$1 billion"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "RESULTED_IN", "object": "IBM losing 10% of its stock value"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "COSTED", "object": "four times more than what it brought to the company"}
+{"source_file": "IBM_Watson.txt", "doc_title": "IBM Watson", "subject": "IBM Watson", "predicate": "RESULTED_IN", "object": "mass layoffs"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Mistral AI SAS", "predicate": "HEADQUARTERED_IN", "object": "Paris"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Mistral AI SAS", "predicate": "FOUNDED_IN", "object": "2023"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Mistral AI SAS", "predicate": "VALUED_AT", "object": "more than US$14 billion"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Mistral AI SAS", "predicate": "NAMED_AFTER", "object": "mistral"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "mistral", "predicate": "ORIGINATES_FROM", "object": "Occitan language"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Mistral AI", "predicate": "ESTABLISHED_BY", "object": "Arthur Mensch, Guillaume Lample, Timothée Lacroix"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Arthur Mensch", "predicate": "FORMER_EMPLOYEE_OF", "object": "Google DeepMind"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Guillaume Lample", "predicate": "FORMER_EMPLOYEE_OF", "object": "Meta Platforms"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Timothée Lacroix", "predicate": "FORMER_EMPLOYEE_OF", "object": "Meta Platforms"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Arthur Mensch, Guillaume Lample, Timothée Lacroix", "predicate": "MET_AT", "object": "École Polytechnique"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Mistral AI SAS", "predicate": "CARRIED_OUT_FUNDRAISING_OF", "object": "€105 million ($117 million)"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Mistral AI SAS", "predicate": "INVESTMENT_FROM", "object": "Lightspeed Venture Partners, Eric Schmidt, Xavier Niel, JCDecaux"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Mistral AI SAS", "predicate": "VALUATION_ESTIMATED_BY", "object": "Financial Times"}
+{"source_file": "Mistral_AI.txt", "doc_title": "Mistral AI", "subject": "Mistral AI SAS", "predicate": "VALUED_AT", "object": "€240 million ($267 million)"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "HEADQUARTERED_IN", "object": "Santa Clara, California"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "FOUNDED_IN", "object": "1993"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "FOUNDED_BY", "object": "Jensen Huang, Chris Malachowsky, Curtis Priem"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "DEVELOPED_PRODUCT", "object": "graphics processing units (GPUs)"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "DEVELOPED_PRODUCT", "object": "systems on chips (SoCs)"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "DEVELOPED_PRODUCT", "object": "application programming interfaces (APIs)"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "data science"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "high-performance computing"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "video games"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "mobile applications"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "automotive applications"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "MARKET_SHARE", "object": "92%"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "MARKET_SHARE_OF", "object": "discrete desktop and laptop GPU market"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "INVESTMENT_FROM", "object": "over a billion dollars"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "DEVELOPED_PRODUCT", "object": "CUDA"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "CONTROLLED_MARKET_SHARE", "object": "more than 80%"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "artificial intelligence (AI)"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "professional visualization"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "supercomputing"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "DEVELOPED_PRODUCT", "object": "GeForce GPUs"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "DEVELOPED_PRODUCT", "object": "professional GPUs"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "edge computing"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "scientific research"}
+{"source_file": "Nvidia.txt", "doc_title": "Nvidia", "subject": "Nvidia Corporation", "predicate": "RELATED_TO", "object": "industrial applications"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "HEADQUARTERED_IN", "object": "San Francisco"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "DEVELOPED_PRODUCT", "object": "GPT family of large language models"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "DEVELOPED_PRODUCT", "object": "DALL-E series of text-to-image models"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "DEVELOPED_PRODUCT", "object": "Sora series of text-to-video models"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "RELEASED_IN", "object": "November 2022"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "FOUNDED_IN", "object": "2015"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "LOCATED_IN", "object": "Delaware"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "SUBSIDIARY_OF", "object": "nonprofit foundation"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "OWNED_BY", "object": "nonprofit foundation"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "VALUED_AT", "object": "$500 billion"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "CONDUCTED_SHARE_SALE", "object": "$6.6 billion"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "Microsoft", "predicate": "INVESTMENT_FROM", "object": "$13 billion"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "FACED_LEGAL_ACTION_AGAINST", "object": "multiple lawsuits"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "RELATED_TO", "object": "copyright infringement"}
+{"source_file": "OpenAI.txt", "doc_title": "OpenAI", "subject": "OpenAI Global, LLC", "predicate": "INFLUENCED", "object": "industry research and commercial applications"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Scale AI, Inc.", "predicate": "LOCATED_IN", "object": "San Francisco, California"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Scale AI, Inc.", "predicate": "FOUNDED_IN", "object": "American"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Scale AI, Inc.", "predicate": "OFFERED_SERVICES", "object": "data annotation, RLHF services, large language model evaluation, enterprise software suites"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Safety, Evaluation and Alignment Lab", "predicate": "FOCUSES_ON", "object": "evaluating and aligning LLMs"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Safety, Evaluation and Alignment Lab", "predicate": "CO_CREATED", "object": "Humanity's Last Exam"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Scale AI", "predicate": "OUTSOURCES_DATA_LABELING_THROUGH", "object": "Remotasks, Outlier"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Remotasks", "predicate": "FOCUSES_ON", "object": "computer vision and autonomous vehicles"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Outlier", "predicate": "FOCUSES_ON", "object": "annotating data for LLMs"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Scale AI", "predicate": "OPERATES", "object": "LLM Red Team"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "LLM Red Team", "predicate": "CONDUCTS", "object": "human adversarial testing"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "LLM Red Team", "predicate": "IDENTIFIES", "object": "vulnerabilities, biases, safety risks in AI models"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "LLM Red Team", "predicate": "WORKED_WITH", "object": "OpenAI, Google DeepMind, national AI Safety Institutes"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Scale AI's customers", "predicate": "INCLUDES", "object": "Google, Microsoft, Meta, General Motors, OpenAI, Time"}
+{"source_file": "Scale_AI.txt", "doc_title": "Scale AI", "subject": "Scale AI", "predicate": "DIRECTLY_WORKS_WITH", "object": "world governments"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Stability AI Ltd", "predicate": "LOCATED_IN", "object": "UK"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Stability AI Ltd", "predicate": "DEVELOPED_PRODUCT", "object": "Stable Diffusion"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Stability AI", "predicate": "FOUNDED_IN", "object": "2019"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Stability AI", "predicate": "FOUNDED_BY", "object": "Emad Mostaque and Cyrus Hodes"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Stability AI", "predicate": "RELEASED_IN", "object": "August 2022"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Emad Mostaque", "predicate": "STEPPED_DOWN_AS", "object": "CEO"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Shan Shan Wong", "predicate": "APPOINTED_AS", "object": "interim co-CEO"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Christian Laforte", "predicate": "APPOINTED_AS", "object": "interim co-CEO"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Prem Akkaraju", "predicate": "APPOINTED_AS", "object": "CEO"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Stability AI", "predicate": "CLOSED_INVESTMENT_ROUND", "object": "$101 million"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Coatue and Lightspeed Venture Partners", "predicate": "LED_INVESTMENT_ROUND", "object": "$101 million"}
+{"source_file": "Stability_AI.txt", "doc_title": "Stability AI", "subject": "Stability AI", "predicate": "CLOSED_INVESTMENT_FROM", "object": "Greycroft, Coatue Management, Sound Ventures, Lightspeed Venture Partners, and O’Shaughnessy Ventures"}

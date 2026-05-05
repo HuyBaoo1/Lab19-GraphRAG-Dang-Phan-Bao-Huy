@@ -1,0 +1,9 @@
+networkx>=3.0
+matplotlib>=3.7
+neo4j>=5.0
+openai>=1.0
+python-dotenv>=1.0
+pandas>=2.0
+noderag>=0.1.0
+langchain>=0.3.0
+langchain-openai>=0.2.0

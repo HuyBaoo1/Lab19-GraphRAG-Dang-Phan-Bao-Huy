@@ -1,0 +1,82 @@
+[
+  {
+    "requested_title": "OpenAI",
+    "resolved_title": "OpenAI",
+    "file": "data/wikipedia_ai_companies/OpenAI.txt",
+    "url": "https://en.wikipedia.org/wiki/OpenAI",
+    "page_id": "48795986",
+    "chars": 1209
+  },
+  {
+    "requested_title": "Anthropic",
+    "resolved_title": "Anthropic",
+    "file": "data/wikipedia_ai_companies/Anthropic.txt",
+    "url": "https://en.wikipedia.org/wiki/Anthropic",
+    "page_id": "6206236",
+    "chars": 1191
+  },
+  {
+    "requested_title": "Google DeepMind",
+    "resolved_title": "Google DeepMind",
+    "file": "data/wikipedia_ai_companies/Google_DeepMind.txt",
+    "url": "https://en.wikipedia.org/wiki/Google_DeepMind",
+    "page_id": "41755648",
+    "chars": 1203
+  },
+  {
+    "requested_title": "Cohere",
+    "resolved_title": "Cohere",
+    "file": "data/wikipedia_ai_companies/Cohere.txt",
+    "url": "https://en.wikipedia.org/wiki/Cohere",
+    "page_id": "69643817",
+    "chars": 1199
+  },
+  {
+    "requested_title": "Stability AI",
+    "resolved_title": "Stability AI",
+    "file": "data/wikipedia_ai_companies/Stability_AI.txt",
+    "url": "https://en.wikipedia.org/wiki/Stability_AI",
+    "page_id": "76117941",
+    "chars": 1205
+  },
+  {
+    "requested_title": "Mistral AI",
+    "resolved_title": "Mistral AI",
+    "file": "data/wikipedia_ai_companies/Mistral_AI.txt",
+    "url": "https://en.wikipedia.org/wiki/Mistral_AI",
+    "page_id": "75544367",
+    "chars": 1192
+  },
+  {
+    "requested_title": "Hugging Face",
+    "resolved_title": "Hugging Face",
+    "file": "data/wikipedia_ai_companies/Hugging_Face.txt",
+    "url": "https://en.wikipedia.org/wiki/Hugging_Face",
+    "page_id": "71431971",
+    "chars": 1195
+  },
+  {
+    "requested_title": "Scale AI",
+    "resolved_title": "Scale AI",
+    "file": "data/wikipedia_ai_companies/Scale_AI.txt",
+    "url": "https://en.wikipedia.org/wiki/Scale_AI",
+    "page_id": "76672400",
+    "chars": 1204
+  },
+  {
+    "requested_title": "Nvidia",
+    "resolved_title": "Nvidia",
+    "file": "data/wikipedia_ai_companies/Nvidia.txt",
+    "url": "https://en.wikipedia.org/wiki/Nvidia",
+    "page_id": "39120",
+    "chars": 1208
+  },
+  {
+    "requested_title": "IBM Watson",
+    "resolved_title": "IBM Watson",
+    "file": "data/wikipedia_ai_companies/IBM_Watson.txt",
+    "url": "https://en.wikipedia.org/wiki/IBM_Watson",
+    "page_id": "22584291",
+    "chars": 1202
+  }
+]

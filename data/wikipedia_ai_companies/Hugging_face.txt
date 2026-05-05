@@ -1,0 +1,21 @@
+Title: Hugging Face
+Requested: Hugging Face
+Page ID: 71431971
+URL: https://en.wikipedia.org/wiki/Hugging_Face
+Source: Wikipedia (en), plain-text extract via MediaWiki API
+---
+
+Hugging Face, Inc., is an American company based in New York City that develops computation tools for building applications using machine learning. Its transformers library built for natural language processing applications and its platform allow users to share machine learning models and datasets and showcase their work.
+
+
+History
+
+
+Founding
+The company was founded in 2016 by French entrepreneurs Clément Delangue, Julien Chaumond, and Thomas Wolf in New York City, originally as a company that developed a chatbot app targeted at teenagers. The company was named after the U+1F917 🤗 HUGGING FACE emoji. After open sourcing the model behind the chatbot, the company pivoted to focus on being a platform for machine learning.
+
+
+AI boom
+On April 28, 2021, the company launched the BigScience Research Workshop in collaboration with several other research groups to release an open large language model. In 2022, the workshop concluded with the announcement of BLOOM, a multilingual large language model with 176 billion parameters.
+
+In February 2023, the company announced partnership with Amazon Web Services (AWS) which would allow Hugging Face's products to be available to AWS customers...
